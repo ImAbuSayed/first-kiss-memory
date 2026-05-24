@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/first-kiss-memory/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for First Kiss Memory](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/first-kiss-memory/) |
+| **Get License** | [Get a Licensing Quote for First Kiss Memory](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/first-kiss-memory/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e599f317e53e2ebcec902cf854e703146f4a867cf345fc3dcc2f0dc69ec15fb0` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
