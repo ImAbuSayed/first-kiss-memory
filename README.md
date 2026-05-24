@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/first-kiss-memory/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for First Kiss Memory](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/first-kiss-memory/) |
+| **Get License** | [Obtain a Music License for First Kiss Memory](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/first-kiss-memory/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 246def3d9a618e5c56fc069aa753a7cd0db91970
+> I still taste the midnight on your lips
+> Midnight on your lips
+> Caught in the fire of our fingertips
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
